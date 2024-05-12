@@ -1,0 +1,3 @@
+Activity 13-14.1 Feedback
+
+This one was fairly simple. I didn't run into any trouble with creating the SQL database. The resources given in lecture covered pretty much everything for this activity. I had some trouble figuring out the J-connector until we were reminded in class that there was another video to watch where that is explained. I was able to build this code where the user can input the SQL query, as it would be entered in the SQL shell, in java and it will output the data. I was able to go through some of the commands in the cheat sheet provided and was able to get an output with all of them. 
